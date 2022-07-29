@@ -1,0 +1,12 @@
+/home/joan/Projects/getting-rusty/flappy/target/release/deps/crc32fast-9660128a2af941cb.rmeta: /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/lib.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/baseline.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/combine.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/specialized/mod.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/table.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/specialized/pclmulqdq.rs
+
+/home/joan/Projects/getting-rusty/flappy/target/release/deps/libcrc32fast-9660128a2af941cb.rlib: /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/lib.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/baseline.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/combine.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/specialized/mod.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/table.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/specialized/pclmulqdq.rs
+
+/home/joan/Projects/getting-rusty/flappy/target/release/deps/crc32fast-9660128a2af941cb.d: /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/lib.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/baseline.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/combine.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/specialized/mod.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/table.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/specialized/pclmulqdq.rs
+
+/home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/lib.rs:
+/home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/baseline.rs:
+/home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/combine.rs:
+/home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/specialized/mod.rs:
+/home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/table.rs:
+/home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.2/src/specialized/pclmulqdq.rs:

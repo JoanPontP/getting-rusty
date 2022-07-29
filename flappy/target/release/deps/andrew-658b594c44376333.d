@@ -1,0 +1,12 @@
+/home/joan/Projects/getting-rusty/flappy/target/release/deps/andrew-658b594c44376333.rmeta: /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/lib.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/line.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/shapes/mod.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/shapes/rectangle.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/text/mod.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/text/fontconfig.rs
+
+/home/joan/Projects/getting-rusty/flappy/target/release/deps/libandrew-658b594c44376333.rlib: /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/lib.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/line.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/shapes/mod.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/shapes/rectangle.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/text/mod.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/text/fontconfig.rs
+
+/home/joan/Projects/getting-rusty/flappy/target/release/deps/andrew-658b594c44376333.d: /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/lib.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/line.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/shapes/mod.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/shapes/rectangle.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/text/mod.rs /home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/text/fontconfig.rs
+
+/home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/lib.rs:
+/home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/line.rs:
+/home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/shapes/mod.rs:
+/home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/shapes/rectangle.rs:
+/home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/text/mod.rs:
+/home/joan/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/text/fontconfig.rs:
